@@ -42,7 +42,7 @@ def encode_file():
     file.close()
     result = lz78.encode(text)
     output.delete('1.0', tk.END)
-    output.insert(tk.INSERT, result)
+    output.insert(tk.INSERT, repr(result))
     global state
     global res
     state = 'encoded'
@@ -51,7 +51,7 @@ def encode_file():
 def encode(data):
     result = lz78.encode(data)
     output.delete('1.0', tk.END)
-    output.insert(tk.INSERT, result)
+    output.insert(tk.INSERT, repr(result))
     global state
     global res
     state = 'encoded'
