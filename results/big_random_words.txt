@@ -1,0 +1,9 @@
+1.4M	big.txt
+492K	big.txt.gz
+764K	big.txt.lz78
+14M	very_big.txt
+4.8M	very_big.txt.gz
+4.7M	very_big.txt.lz78
+140M	huge.txt
+48M	huge.txt.gz
+21M	huge.txt.lz78
