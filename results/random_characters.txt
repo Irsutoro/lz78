@@ -1,0 +1,15 @@
+980K	example_data/random_characters/1_000_000.txt
+824K	example_data/random_characters/1_000_000.txt.gz
+1.3M	example_data/random_characters/1_000_000.txt.lz78
+100K	example_data/random_characters/100_000.txt
+84K	example_data/random_characters/100_000.txt.gz
+108K	example_data/random_characters/100_000.txt.lz78
+12K	example_data/random_characters/10_000.txt
+12K	example_data/random_characters/10_000.txt.gz
+16K	example_data/random_characters/10_000.txt.lz78
+4.0K	example_data/random_characters/1_000.txt
+4.0K	example_data/random_characters/1_000.txt.gz
+4.0K	example_data/random_characters/1_000.txt.lz78
+512	example_data/random_characters/100.txt
+512	example_data/random_characters/100.txt.gz
+512	example_data/random_characters/100.txt.lz78
